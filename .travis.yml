@@ -1,0 +1,6 @@
+language: c
+dist: trusty
+
+script:
+  - make
+  - make check
