@@ -1,6 +1,10 @@
 # conao3's global .gitignore at
 # http://dotfiles.conao3.com/gitignore
 
+# files
+tmp*
+cocc
+
 # Object files
 *.o
 *.ko
